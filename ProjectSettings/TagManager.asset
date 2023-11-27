@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tile_level
+  - Ground
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - walkable
+  - player
+  - 
+  - both
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2872705717
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tiles
+    uniqueID: 713225221
+    locked: 0
+  - name: player
+    uniqueID: 83189533
+    locked: 0
+  - name: actualtiles
+    uniqueID: 1133995367
+    locked: 0
